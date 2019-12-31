@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderCreatornBillPrinter", "OrderCreatornBillPrinter\OrderCreatornBillPrinter.csproj", "{A7FECB82-8BD9-4993-877E-DA70690FDE79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDe5blendingprj", "KDe5blendingprj\KDe5blendingprj.csproj", "{2F3212CA-3001-44F9-B09B-74250773230A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDHe5blendingprj", "TDHe5blendingprj\TDHe5blendingprj.csproj", "{66375E4F-DD9F-479C-B2D4-B790100E3480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FECB82-8BD9-4993-877E-DA70690FDE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FECB82-8BD9-4993-877E-DA70690FDE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FECB82-8BD9-4993-877E-DA70690FDE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FECB82-8BD9-4993-877E-DA70690FDE79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3212CA-3001-44F9-B09B-74250773230A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3212CA-3001-44F9-B09B-74250773230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3212CA-3001-44F9-B09B-74250773230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3212CA-3001-44F9-B09B-74250773230A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66375E4F-DD9F-479C-B2D4-B790100E3480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66375E4F-DD9F-479C-B2D4-B790100E3480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66375E4F-DD9F-479C-B2D4-B790100E3480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66375E4F-DD9F-479C-B2D4-B790100E3480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
