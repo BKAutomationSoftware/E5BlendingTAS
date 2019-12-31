@@ -1,0 +1,11 @@
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\bin\Debug\TDHe5blendingprj.exe.config
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\bin\Debug\TDHe5blendingprj.exe
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\bin\Debug\TDHe5blendingprj.pdb
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\obj\Debug\TDHe5blendingprj.Mainfrm_TDHe5blending.resources
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\obj\Debug\TDHe5blendingprj.Properties.Resources.resources
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\obj\Debug\TDHe5blendingprj.csproj.GenerateResource.Cache
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\obj\Debug\TDHe5blendingprj.exe
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\obj\Debug\TDHe5blendingprj.pdb
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\obj\Debug\TDHe5blendingprj.csprojResolveAssemblyReference.cache
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\obj\Debug\TDHe5blendingprj.frm_pending.resources
+D:\E5BlendingTAS\E5BlendingTAS\TDHe5blendingprj\bin\Debug\EasyModbus.dll
